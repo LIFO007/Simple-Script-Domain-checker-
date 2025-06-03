@@ -1,6 +1,6 @@
 #!/bin/bash
 
-name="BreachForums"
+name="Wikipedia"
 tlds=()
 
 while IFS= read -r line; do
